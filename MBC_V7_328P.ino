@@ -20,7 +20,7 @@ NOTES   :
 #define INPUT_PAUSE A0
 
 // LCD Contrast PWM pin
-#define V0_PIN 6  //----------------------------------------------------------------DELETE if OCROA line works
+#define V0_PIN 6
 
 uint16_t rpm1 = 0;  // RPM for sensor 1
 uint16_t rpm2 = 0;  // RPM for sensor 2
@@ -54,7 +54,7 @@ uint16_t inputsPerMinute1 = 0;
 uint16_t inputsPerMinute2 = 0;
 uint16_t V0val = 125;
 
-// --- Setup ---
+// setup
 void setup() {
   Serial.begin(9600);
   //setup pinModes at register level
