@@ -2,6 +2,7 @@
 
 A custom built, indoor bicycle computer designed to provide real-time cycling metrics for indoor base training. This system was developed as an Independent Study Project for TEJ3M (RSGC ACES).
 
+If you have any questions/suggestions at all PLEASE EMAIL: zmalkani@rsgc.on.ca and I will respond as soon as possible.
 ---
 
 ### Overview
