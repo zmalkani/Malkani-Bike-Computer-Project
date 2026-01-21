@@ -1,3 +1,5 @@
+Project Report: https://tinyurl.com/37w5h357
+
 ## Malkani Bike Computer Project
 
 A custom built, indoor bicycle computer designed to provide real-time cycling metrics for indoor base training. This system was developed as an Independent Study Project for TEJ3M (RSGC ACES).
